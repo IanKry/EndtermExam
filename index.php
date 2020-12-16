@@ -33,6 +33,8 @@
 			</ul>
 		</div>
 		<div id="quotes">
+			<br>
+			<br>
 			<h1>Gusto ko SUMABOG!!</h1>
 			</div>	
 	</div>
