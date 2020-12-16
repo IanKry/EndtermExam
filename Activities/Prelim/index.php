@@ -17,22 +17,22 @@
 		<div id="header">
 			<h1> ITL103 </h1>
 			<ul>
-				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../index.php">Home</a></li>
 				<div id="dropdown">
 				<li>Activities</li>
 				<div class = "dropdown-content">
 					<ul>
 						<div class="act">
-							<a href="../Prelim/index.html">CSS</a>
+							<a href="../Prelim/index.php">CSS</a>
 							<br>
-							<a href="../Midterm/index.html">SVG</a>
-							<a href="../Endterm/index.html">CANVAS</a>
+							<a href="../Midterm/index.php">SVG</a>
+							<a href="../Endterm/index.php">CANVAS</a>
 						</div>
 					</ul>	
 				</div>
 				</div>
 				
-				<li><a href="../../about/index.html">About me</a></li>
+				<li><a href="../../about/index.php">About me</a></li>
 			</ul>
 		</div>
 	</div>
@@ -54,7 +54,7 @@
 		<h1> Learning Task 2.3</h1>
 		<br>
 		<br>
-		<a href="../../Exam/prelim/index.html"><h2>Heroku</a></h2>
+		<a href="../../Exam/prelim/index.php"><h2>Heroku</a></h2>
 		<br>
 		<br>
 		<a href=""><h2>Github</a></h2>
@@ -93,7 +93,7 @@
 		<h1>Exam</h1>
 		<br>
 		<br>
-		<a href="../../Exam/prelim/index.html"><h2>Heroku</a></h2>
+		<a href="../../Exam/prelim/index.php"><h2>Heroku</a></h2>
 		<br>
 		<br>
 		<a href=""><h2>Github</a></h2>
