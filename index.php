@@ -33,7 +33,7 @@
 			</ul>
 		</div>
 		<div id="quotes">
-			<h1>Don't go through life, grow through life.</h1>
+			<h1>Gusto ko SUMABOG!!</h1>
 			</div>	
 	</div>
 	
