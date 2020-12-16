@@ -46,7 +46,7 @@
 		<a href="module5/index.php"><h2>Heroku</a></h2>
 		<br>
 		<br>
-		<a href=""><h2>Github</a></h2>
+		<a href="https://github.com/IanKry/EndtermExam/tree/main/Activities/Midterm/module5"><h2>Github</a></h2>
 	
 
 	</div>
@@ -78,7 +78,7 @@
 		<a href="../../Exam/midterm/index.php"><h2>Heroku</a></h2>
 		<br>
 		<br>
-		<a href=""><h2>Github</a></h2>
+		<a href="https://github.com/IanKry/EndtermExam/tree/main/Exam/midterm"><h2>Github</a></h2>
 	</div>
 </div>
 

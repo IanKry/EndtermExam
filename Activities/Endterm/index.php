@@ -44,7 +44,16 @@
 		<a href="JSart/index.php"><h2>Heroku</a></h2>
 		<br>
 		<br>
-		<a href=""><h2>Github</a></h2>
+		<a href="https://github.com/IanKry/EndtermExam/tree/main/Activities/Endterm/JSart"><h2>Github</a></h2>
+	</div>
+	<div id="module">
+		<h1> Exam</h1>
+		<br>
+		<br>
+		<a href="../../index.php"><h2>Heroku</a></h2>
+		<br>
+		<br>
+		<a href="https://github.com/IanKry/EndtermExam"><h2>Github</a></h2>
 	</div>
 
 
